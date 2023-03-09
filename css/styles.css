@@ -1,0 +1,39 @@
+header {
+    display: flex;
+    text-align: center;
+    background-color:rgb(9, 67, 103);
+    color: #fff;
+    padding: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: content-box radial-gradient(rgb(51, 128, 176), rgb(226, 224, 232));
+    margin: 0;
+    padding: 0;
+}
+
+#Diego {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    box-shadow: 80 80 10px rgba(0, 0, 0, 0.5);
+    width: auto;
+    height: 200px;
+}
+#saludo{
+    background-color: rgb(0, 234, 255);
+}
+footer{
+    margin: 0;
+    padding: 0;
+}
+
+#LinkedIn{
+    margin: 0 auto;
+    border-radius: 50%;
+    width: auto;
+    height: 50px;
+}
+
+
